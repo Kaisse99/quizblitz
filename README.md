@@ -1,4 +1,4 @@
-# QuizBlitz
+## QuizBlitz
 
 A real-time multiplayer quiz game built with Swift/SwiftUI (iOS) and Node.js, 
 communicating over WebSockets via Socket.IO, with MongoDB for data persistence.
@@ -32,7 +32,20 @@ MongoDB Atlas
 
 ## Demo
 
-*GIF coming soon*
+### Joining the game
+![Join Demo](demo/demoJoin.gif)
+
+### Gameplay — full game from lobby to leaderboard
+![Gameplay Demo](demo/demoGameplay.gif)
+
+### Edge cases — duplicate username and joining an active session
+![Edge Cases Demo](demo/demoEdgeCases.gif)
+
+### Connection loss handling — server crash mid-game
+![Server Crash Demo](demo/demoServercrash.gif)
+
+### Load test — 9 simulated concurrent players via Node.js script
+![Load Test Console](demo/demoTest9Console.gif)
 
 ---
 
