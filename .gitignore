@@ -1,0 +1,10 @@
+live-quiz-game/node_modules/
+live-quiz-game/.env
+live-quiz-game/.idea/
+QuizAppClient/build/
+QuizAppClient/DerivedData/
+QuizAppClient/.idea/
+**/*.xcuserstate
+**/*.xcuserdatad
+.DS_Store
+*.log
