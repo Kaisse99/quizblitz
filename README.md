@@ -1,10 +1,12 @@
 # ⚡ QuizBlitz
 
-![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift)
-![Node.js](https://img.shields.io/badge/Node.js-18+-green?logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen?logo=mongodb)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-4.0-black?logo=socket.io)
-![Platform](https://img.shields.io/badge/Platform-iOS%2016+-blue?logo=apple)
+![Swift](https://img.shields.io/badge/Swift-6.2-orange?logo=swift)
+![Node.js](https://img.shields.io/badge/Node.js-22.12-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-5.2-lightgrey?logo=express)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-4.8-black?logo=socket.io)
+![Socket.IO Swift](https://img.shields.io/badge/Socket.IO--Swift-16.1.1-black?logo=socket.io)
+![MongoDB](https://img.shields.io/badge/Mongoose-9.3-brightgreen?logo=mongodb)
+![Platform](https://img.shields.io/badge/iOS-26.2+-blue?logo=apple)
 
 A real-time multiplayer quiz game built with Swift/SwiftUI (iOS) and Node.js, 
 communicating over WebSockets via Socket.IO, with MongoDB for data persistence.
