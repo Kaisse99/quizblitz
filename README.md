@@ -16,7 +16,7 @@ communicating over WebSockets via Socket.IO, with MongoDB for data persistence.
 ## Why I built this
 
 This was a learning experiment to understand WebSocket communication from scratch. 
-A multiplayer quiz game is a natural fit for the protocol — it requires pushing 
+A multiplayer quiz game is a natural fit for the protocol, it requires pushing 
 simultaneous state changes to all connected clients, broadcasting questions instantly, 
 delivering per-player answer results, and keeping a live player count in sync across 
 multiple devices in real time.
