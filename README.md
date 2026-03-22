@@ -178,5 +178,5 @@ results to the console.
 
 ## Author
 
-**Mykyta** — iOS & Full-Stack Developer  
+**Mykyta Kaissenberg** 
 [GitHub](https://github.com/Kaisse99)
