@@ -178,5 +178,5 @@ results to the console.
 
 ## Author
 
-**Mykyta Kaissenberg** 
+**Mykyta Kaisenberg** 
 [GitHub](https://github.com/Kaisse99)
